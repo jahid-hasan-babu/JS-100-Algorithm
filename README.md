@@ -1,2 +1,6 @@
-JS-100-Algorithm
-Here i solve 100 of porblems in Javascript.By this we grow up our basic knowladge of Algorithm.
+<div align="center">
+  <strong><span style="font-size: 35px;">JS-100-Algorithm</span></strong>
+</div>
+
+Here I solve 100 problems in JavaScript. By this, we grow our basic knowledge of algorithms.
+
